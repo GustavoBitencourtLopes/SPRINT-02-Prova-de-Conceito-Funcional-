@@ -1,5 +1,7 @@
 # SPRINT-02-Prova-de-Conceito-Funcional-
 
+Gustavo Bitencourt-RM:568885, Daniel Vieira-RM: 573326, Leonardo Takachi-RM: 569066, Giovane Salazar-RM: 570396
+
 # 🔋 Simulador de Sessão de Recarga - GoodWe
 
 ## 📌 Descrição
