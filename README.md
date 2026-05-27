@@ -47,7 +47,7 @@ O sistema coleta as seguintes informações:
 - Potência do carregador (em kW)
 - Horário da recarga (Normal ou Pico)
 
-<img width="778" height="909" alt="image" src="https://github.com/user-attachments/assets/0b95d169-05aa-4f57-b29f-12babc5f8e71" />
+<img width="500" height="540" alt="image" src="https://github.com/user-attachments/assets/0b95d169-05aa-4f57-b29f-12babc5f8e71" />
 
 
 ---
@@ -71,8 +71,8 @@ Energia (kWh) = (Potência × Tempo) / 60
 
 O cálculo considera a potência do carregador e o tempo total da sessão.
 
-📷 Sugestão de imagem:
-Print do resultado da sessão mostrando energia consumida.
+<img width="500" height="540" alt="image" src="https://github.com/user-attachments/assets/54a77edf-ed1e-44f6-8e3b-8c76a01bbecf" />
+
 
 ---
 
@@ -94,8 +94,8 @@ Essa lógica representa diferentes tipos de carregamento:
 
 Quanto maior a potência do carregador, maior o custo operacional da sessão.
 
-📷 Sugestão de imagem:
-Print da aba “Tarifação”.
+<img width="500" height="540" alt="image" src="https://github.com/user-attachments/assets/0437a62f-70d2-415a-8780-856f1379392e" />
+
 
 ---
 
@@ -124,8 +124,7 @@ O usuário consegue visualizar:
 - Descontos
 - Valor final
 
-📷 Sugestão de imagem:
-Print da tela de resultado da sessão.
+
 
 ---
 
@@ -160,8 +159,8 @@ Nela, o usuário informa:
 
 Com base nesses dados, o sistema calcula automaticamente os resultados da sessão.
 
-📷 Sugestão de imagem:
-Print completo da aba “Sessão”.
+<img width="472" height="500" alt="image" src="https://github.com/user-attachments/assets/25619409-22f0-4b48-8a84-b3f5b9722a92" />
+
 
 ---
 
@@ -176,8 +175,8 @@ Ela explica:
 - Tarifas por potência
 - Fórmula de cálculo energético
 
-📷 Sugestão de imagem:
-Print da aba “Tarifação”.
+<img width="490" height="540" alt="image" src="https://github.com/user-attachments/assets/72aa827b-c65e-4371-882e-f04c3f727cc0" />
+
 
 ---
 
@@ -198,8 +197,8 @@ Também é exibido:
 - Descontos
 - Tarifa aplicada
 
-📷 Sugestão de imagem:
-Print da aba “Pagamento”.
+<img width="492" height="557" alt="image" src="https://github.com/user-attachments/assets/cc5829c0-5647-475a-9200-d8a33bbf5302" />
+
 
 ---
 
@@ -219,8 +218,6 @@ A solução demonstra como sistemas inteligentes podem contribuir para:
 - Expansão sustentável da mobilidade elétrica
 - Modernização da infraestrutura de recarga
 
-📷 Sugestão de imagem:
-Imagem geral do sistema funcionando.
 
 ---
 
